@@ -1,5 +1,3 @@
-import React from "react";
-
-export const App = () => {
+export default function App() {
   return <h1>Root component</h1>;
-};
+}
