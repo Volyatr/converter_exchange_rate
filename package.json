@@ -1,0 +1,20 @@
+{
+  "name": "converter_exchange_rate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volyatr/converter_exchange_rate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volyatr/converter_exchange_rate/issues"
+  },
+  "homepage": "https://github.com/Volyatr/converter_exchange_rate#readme"
+}
