@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/Volyatr/converter_exchange_rate/issues"
   },
-  "homepage": "https://github.com/Volyatr/converter_exchange_rate#readme"
+  "homepage": "https://github.com/Volyatr/converter_exchange_rate#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^4.9.5"
+  }
 }
